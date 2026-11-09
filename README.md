@@ -1,4 +1,4 @@
-Ejercicio:
+# Ejercicio:
 
 * Cree un proyecto en java de consola usando IA que haga lo siguiente
 
