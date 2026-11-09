@@ -30,6 +30,11 @@ public class SumaNumeros {
         // Mostrar el resultado en pantalla
         System.out.println("La suma de " + primerNumero + " + " + segundoNumero + " es: " + suma);
 
+        // Variable que usa el modelo Rectangulo
+        Rectangulo miRectangulo = new Rectangulo(5, 3);
+        System.out.println("Rectangulo: alto = " + miRectangulo.getAlto()
+                + ", ancho = " + miRectangulo.getAncho());
+
         scanner.close();
     }
 }
